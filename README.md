@@ -1,1 +1,1 @@
-# Stock-Pilot
+# VinStock by VinTech
